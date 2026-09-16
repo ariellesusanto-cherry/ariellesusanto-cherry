@@ -2,7 +2,7 @@
 
 MPH candidate at UC Berkeley. I work on product and go-to-market for healthcare operations, and I build the prototypes that make those conversations concrete.
 
-Currently at Contra Costa Health, working on vaccine and medication inventory.
+Three months embedded inside a county health system in Contra Costa: customer discovery, product discovery, and problem statement validation. The work below came out of that.
 
 ### Selected work
 
