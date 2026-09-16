@@ -23,4 +23,4 @@ Most health software fails in the same place. A signal exists, and nobody conver
 
 I'm most useful in discovery and customer conversations, and in turning what I hear there into something you can put in front of the next buyer.
 
-📍 Berkeley, CA · [portfolio](https://portfolio-rho-two-he7a1yv84w.vercel.app)
+📍 Berkeley, CA · [portfolio](https://ariellesusanto.com)
