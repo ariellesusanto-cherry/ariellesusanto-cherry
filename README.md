@@ -1,8 +1,8 @@
-## Arielle Susanto
+## Arielle K. Susanto
 
-MPH candidate at UC Berkeley. I build software for the operational side of healthcare — the part where the data already exists and nobody has turned it into somebody's accountable task.
+MPH candidate at UC Berkeley. I work on product and go-to-market for healthcare operations, and I build the prototypes that make those conversations concrete.
 
-Spent 3 months embedded in a health system at Contra Costa Health, working on customer/product discovery and validating problem statement on healthcare supply-chain management. 
+Currently at Contra Costa Health, working on vaccine and medication inventory.
 
 ### Selected work
 
@@ -15,8 +15,12 @@ A shared patient summary for multidisciplinary clinics. A GP, physiotherapist, p
 **[Health Canopy](https://github.com/ariellesusanto-cherry/health-canopy-1)** · [live demo](https://health-canopy.vercel.app)
 Vaccine and medication inventory for a county health system. Role-scoped views for supply chain managers, unit coordinators and executives, with cold chain monitoring and compliance tracking.
 
-### What I'm interested in
+### What I'm looking for
 
-Hospital operations, real-world evidence, and causal inference. Specifically the distance between a prediction and somebody actually acting on it, which is where most health AI quietly fails.
+Product and go-to-market at an early-stage health company.
+
+Most health software fails in the same place. A signal exists, and nobody converts it into somebody's accountable task. That gap is operational rather than technical, which is why I spend my time inside health systems and not only in the code.
+
+I'm most useful in discovery and customer conversations, and in turning what I hear there into something you can put in front of the next buyer.
 
 📍 Berkeley, CA · [portfolio](https://portfolio-rho-two-he7a1yv84w.vercel.app)
