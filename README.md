@@ -1,6 +1,6 @@
 ## Arielle K. Susanto
 
-MPH candidate at UC Berkeley. I work on product and go-to-market for healthcare operations, and I build the prototypes that make those conversations concrete.
+MPH candidate at UC Berkeley. I find out where hospital operations break down, then build a working version of the fix so people can use it instead of imagining it.
 
 Three months embedded inside a county health system in Contra Costa: customer discovery, product discovery, and problem statement validation. The work below came out of that.
 
