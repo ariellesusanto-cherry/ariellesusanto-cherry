@@ -6,14 +6,14 @@ Three months embedded inside a county health system in Contra Costa: customer di
 
 ### Selected work
 
+**[Health Canopy](https://github.com/ariellesusanto-cherry/health-canopy)** · [live demo](https://health-canopy.vercel.app)
+Vaccine and medication inventory for a county health system. Role-scoped views for supply chain managers, unit coordinators and executives, with cold chain monitoring and compliance tracking.
+
 **[Patient Flow Board](https://github.com/ariellesusanto-cherry/patient-flow-board)** · [live demo](https://patient-flow-board.vercel.app)
 A ranked intervention queue for a hospital bed huddle. Takes an expected patient transition and turns it into ranked operational work with an owner, a deadline, and a named consequence. Includes a six-hour view of beds freeing up against beds needed. React, TypeScript, synthetic data.
 
 **[ProviderConnect](https://github.com/ariellesusanto-cherry/provider-connect)** · [live demo](https://provider-connect.vercel.app)
 A shared patient summary for multidisciplinary clinics. A GP, physiotherapist, psychologist and dietitian coordinate care while sensitive conditions and medications stay redacted by role, with an audit trail.
-
-**[Health Canopy](https://github.com/ariellesusanto-cherry/health-canopy)** · [live demo](https://health-canopy.vercel.app)
-Vaccine and medication inventory for a county health system. Role-scoped views for supply chain managers, unit coordinators and executives, with cold chain monitoring and compliance tracking.
 
 ### What I'm looking for
 
