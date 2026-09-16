@@ -2,7 +2,7 @@
 
 MPH candidate at UC Berkeley. I build software for the operational side of healthcare — the part where the data already exists and nobody has turned it into somebody's accountable task.
 
-Spent 3 months embedded in a health system at Contra Costa Health, working on vaccine and medication inventory.
+Spent 3 months embedded in a health system at Contra Costa Health, working on customer/product discovery and validating problem statement on healthcare supply-chain management. 
 
 ### Selected work
 
