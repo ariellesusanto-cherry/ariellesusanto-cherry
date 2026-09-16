@@ -12,7 +12,7 @@ A patient-flow intervention queue for a hospital bed huddle. Takes an expected p
 **[Capsule](https://github.com/ariellesusanto-cherry/provider-connect)** · [live demo](https://provider-connect.vercel.app)
 A shared patient summary for multidisciplinary clinics. A GP, physiotherapist, psychologist and dietitian coordinate care while sensitive conditions and medications stay redacted by role, with an audit trail.
 
-**[Health Canopy](https://github.com/ariellesusanto-cherry/health-canopy-1)** · [live demo](https://health-canopy.vercel.app)
+**[Health Canopy](https://github.com/ariellesusanto-cherry/health-canopy)** · [live demo](https://health-canopy.vercel.app)
 Vaccine and medication inventory for a county health system. Role-scoped views for supply chain managers, unit coordinators and executives, with cold chain monitoring and compliance tracking.
 
 ### What I'm looking for
